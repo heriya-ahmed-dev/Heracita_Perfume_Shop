@@ -6,6 +6,15 @@
     padding: auto;
 
 }
+.Title{
+ font-style: calc();   
+}
+.deleted{
+    color: black;
+    font-weight: 500;
+    font-size: small;
+    text-decoration: line-through;
+}
 .second_box{
     margin: 5%;
     margin-bottom: 10px;
@@ -76,6 +85,8 @@
     padding: auto;
 }
 .cart_img{
-    width: 3%;
+    margin-left: 10%;
+    margin-right: 2%;
+    width: 9%;
 }
 }
